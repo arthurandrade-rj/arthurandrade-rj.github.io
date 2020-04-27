@@ -12,8 +12,6 @@ sass:
 plainwhite:
   name: Arthur Andrade
   tagline: Analista Financeiro. 
-  Aspirante a Roteirista. 
-  Pitaqueiro.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
