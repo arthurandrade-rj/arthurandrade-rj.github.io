@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ajustando automaticamente bilheteria de filmes pela inflação"
-excerpt: "Como ajustar valores pela inflação automaticamente"
+excerpt: "Se vocês forem na Wikipedia, poderão ver que dos 100 filmes com as maiores bilheterias, 95 foram lançados após os anos 2000. Mas com um detalhe: esses valores não estão ajustados de acordo com a inflação."
 date: 2020-04-27 11:50:23 -0000
 tags: [PowerBI, cinema, inflação, tutorial]
 comments: true
-category: PowerBI, cinema, inflação, tutorial
+category: PowerBI Cinema Inflação Tutorial
 ---
 
 Esse foi tema de uma das minhas aulas de Business Intelligence com Power BI, ministradas no INFNET em parceria com A Ponte Para PretXs.
