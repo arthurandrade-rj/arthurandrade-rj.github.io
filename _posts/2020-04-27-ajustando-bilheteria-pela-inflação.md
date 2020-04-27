@@ -5,7 +5,7 @@ excerpt: "Se vocês forem na Wikipedia, poderão ver que dos 100 filmes com as m
 date: 2020-04-27 11:50:23 -0000
 tags: [PowerBI, cinema, inflação, tutorial]
 comments: true
-category: PowerBI Cinema Inflação Tutorial
+categories: PowerBI Cinema Inflação Tutorial
 ---
 
 Esse foi tema de uma das minhas aulas de Business Intelligence com Power BI, ministradas no INFNET em parceria com A Ponte Para PretXs.
