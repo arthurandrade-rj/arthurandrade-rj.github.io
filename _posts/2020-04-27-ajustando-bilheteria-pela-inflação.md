@@ -23,7 +23,7 @@ Depois que você já baixou e importou o dataset de filmes pro Power BI, nós va
 
 **Passo 1:** importar a tabela do site "US Inflation Calculator"
 
-![Passo 1](https://github.com/arthurandrade-rj/arthurandrade-rj.github.io/blob/master/assets/Imagem1.png)
+![Passo 1](https://github.com/arthurandrade-rj/arthurandrade-rj.github.io/blob/master/assets/portfolio.png)
 
 ![Passo 1](https://github.com/arthurandrade-rj/arthurandrade-rj.github.io/blob/master/assets/Imagem2.png)
 
